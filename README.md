@@ -11,4 +11,4 @@ Repositório criado para explicar o funcionamento do Sistema Para o Controle de 
 #### 👉👉[EliseuPHP/MobileSensorSocket](https://github.com/EliseuPHP/MobileSensorSocket)🤝🤝
 
 ### Vídeo de demonstração do sistema funcionando
-#### 👉👉Em breve🤝🤝
+#### 👉👉[Video para demonstração do TCC: Sistema para o controle de cenarios virtuais](https://youtu.be/aQpNzkhCocE)🤝🤝
